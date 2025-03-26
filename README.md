@@ -1,3 +1,2 @@
 # desktop-app
-This is the main branch of Bondan, Haikal, and Luna Desktop App Projects
-helo biatch
+This is the main branch Haikal and Luna Desktop App Projects
